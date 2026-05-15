@@ -41,6 +41,6 @@ If you're interested in my work or want to collaborate, feel free to reach out!
 📧 Email: [kamelabdelrahman73@gmail.com](mailto:kamelabdelrahman73@gmail.com)
 
 🔗 LinkedIn:
-https://www.linkedin.com/in/abdelrahman-kamel-b35562307/
+www.linkedin.com/in/abdelrahman-kamel-b35562307
 
 Looking forward to learning and growing together! 🚀
