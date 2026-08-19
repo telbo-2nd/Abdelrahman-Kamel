@@ -75,7 +75,7 @@ Hi! My name is **Abdelrahman Kamel**. I'm a fourth-year Computer Science student
 
 </div>
 
-> Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username to activate the live stats cards.
+> Replace `telbo-2nd` above with your actual GitHub username to activate the live stats cards.
 
 ---
 
