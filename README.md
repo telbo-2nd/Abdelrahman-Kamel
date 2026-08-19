@@ -70,12 +70,11 @@ Hi! My name is **Abdelrahman Kamel**. I'm a fourth-year Computer Science student
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=telbo-2nd&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=telbo-2nd&layout=compact)
 
 </div>
 
-> Replace `telbo-2nd` above with your actual GitHub username to activate the live stats cards.
 
 ---
 
