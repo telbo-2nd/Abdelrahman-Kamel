@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hi, I'm Abdelrahman Kamel 🚀
+# Hi, I'm Abdelrahman Kamel 
 
 **Full-Stack Developer | MERN Stack | NestJS | CS Student @ Cairo University**
 
