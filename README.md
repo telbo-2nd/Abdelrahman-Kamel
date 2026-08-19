@@ -75,6 +75,7 @@ Hi! My name is **Abdelrahman Kamel**. I'm a fourth-year Computer Science student
 
 </div>
 
+> Stats cards are live using your username `telbo-2nd`.
 
 ---
 
