@@ -64,20 +64,6 @@ Hi! My name is **Abdelrahman Kamel**. I'm a fourth-year Computer Science student
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=telbo-2nd&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=telbo-2nd&layout=compact)
-
-</div>
-
-> Stats cards are live using your username `telbo-2nd`.
-
----
 
 ## 🤝 Let's Connect!
 
